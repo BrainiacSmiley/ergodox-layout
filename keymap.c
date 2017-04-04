@@ -105,7 +105,7 @@ bool log_enable = false;
 bool time_travel = false;
 bool skip_leds = false;
 
-static uint8_t is_adore = 0;
+static uint8_t is_adore = 1;
 
 /* The Keymap */
 
